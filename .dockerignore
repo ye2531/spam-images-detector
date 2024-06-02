@@ -1,0 +1,6 @@
+data
+README.md
+.gitignore
+LICENSE
+**/__pycache__/
+.pytest_cache
